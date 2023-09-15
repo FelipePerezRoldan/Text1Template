@@ -1,0 +1,6 @@
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libRn\libRn\bin\Debug\libRn.dll
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libRn\libRn\bin\Debug\libRn.pdb
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libRn\libRn\obj\Debug\libRn.csproj.AssemblyReference.cache
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libRn\libRn\obj\Debug\libRn.csproj.CoreCompileInputs.cache
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libRn\libRn\obj\Debug\libRn.dll
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libRn\libRn\obj\Debug\libRn.pdb

@@ -1,0 +1,9 @@
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\obj\Debug\libOpe.csproj.AssemblyReference.cache
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\obj\Debug\libOpe.csproj.CoreCompileInputs.cache
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\bin\Debug\libOpe.dll
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\bin\Debug\libOpe.pdb
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\bin\Debug\libRn.dll
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\bin\Debug\libRn.pdb
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\obj\Debug\libOpe.csproj.CopyComplete
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\obj\Debug\libOpe.dll
+C:\Users\wolff\OneDrive\Escritorio\Examen1\libOpe\libOpe\obj\Debug\libOpe.pdb

@@ -1,0 +1,15 @@
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\bin\Debug\appParcial1.exe.config
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\bin\Debug\appParcial1.exe
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\bin\Debug\appParcial1.pdb
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.csproj.AssemblyReference.cache
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.frmParcial1.resources
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.Properties.Resources.resources
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.csproj.GenerateResource.cache
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.csproj.CoreCompileInputs.cache
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.exe
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.pdb
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\bin\Debug\libOpe.dll
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\bin\Debug\libRn.dll
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\bin\Debug\libOpe.pdb
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\bin\Debug\libRn.pdb
+C:\Users\wolff\OneDrive\Escritorio\Examen1\appParcial1\appParcial1\obj\Debug\appParcial1.csproj.CopyComplete
